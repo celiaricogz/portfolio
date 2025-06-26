@@ -47,8 +47,10 @@ Actualmente trabajo en el sector de simulación, donde aplico mis conocimientos 
 
 ## 🌐 Enlaces profesionales
 
-- 🔗 [Perfil en Malt](https://www.malt.es/profile/celiaricogutierrez)
-- 👥 [LinkedIn](https://www.linkedin.com/in/celiaricogutierrez)
+- 🔗 [Perfil en Malt](https://www.malt.es/profile/celiaricogutierrez)  
+- 👥 [LinkedIn](https://www.linkedin.com/in/celiaricogutierrez)  
+- 📝 [Blog técnico personal – CheshyTech](https://cheshytech.github.io)  
+  Espacio donde comparto aprendizajes sobre automatización, DevOps y scripting desde un enfoque práctico y personal.
 
 ---
 

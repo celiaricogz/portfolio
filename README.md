@@ -31,20 +31,17 @@ Actualmente trabajo en el sector de simulación, donde aplico mis conocimientos 
 ## 🧪 Proyectos destacados *(funcionales y en preparación)*
 
 ### 📦 [Instalador automático de entornos Linux](https://github.com/celiaricogz/auto-installer-debian)  
-> Script que automatiza en la post-instalación, la configuración e instalación de paquetes en sistemas Linux Debian/Ubuntu.  
-⏳ Funcional, aunque en continua mejora y desarrollo.
+> Script que automatiza la post-instalación, configuración e instalación de paquetes en sistemas Debian/Ubuntu.  
+⏳ Funcional y utilizado actualmente; en mejora continua.
 
-### 🔧 CI/CD con GitHub Actions y Docker  
-> Pipeline automatizado para testeo y despliegue de contenedores desde repositorios Git.  
-⏳ En preparación
+### 🛠️ [GitLab Project Initializer](https://github.com/celiaricogz/gitlab-project-initializer)  
+> Automatiza la inicialización de nuevos repositorios GitLab desde una plantilla base, incluyendo ramas protegidas y estructura estándar.  
+✅ Funcional en entorno real, desplegado como servicio systemd con ejecución periódica.
 
-### 🛰️ Sistema de versiones automáticas multi-repo  
-> Generador de versiones ZIP a partir de distintos repositorios para facilitar despliegue a equipos no técnicos.  
-⏳ En preparación
+### 📦 [Gitlab Project Version Packager](https://github.com/celiaricogz/gitlab-project-version-packager)  
+> Sistema distribuido con CI/CD para empaquetado automático de versiones a partir de componentes genéricos y específicos.  
+✅ Funcional y activo en entorno de pruebas; arquitectura multi-repo con integración y versionado automático.
 
-### 📊 Monitorización local de sistemas  
-> Stack Docker para visualizar métricas y logs con Grafana, Metricbeat y Filebeat.  
-⏳ En preparación
 
 ---
 

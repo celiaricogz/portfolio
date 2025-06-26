@@ -28,7 +28,11 @@ Actualmente trabajo en el sector de simulación, donde aplico mis conocimientos 
 
 ---
 
-## 🧪 Proyectos destacados *(en preparación)*
+## 🧪 Proyectos destacados *(funcionales y en preparación)*
+
+### 📦 [Instalador automático de entornos Linux](https://github.com/celiaricogz/auto-installer-debian)  
+> Script que automatiza en la post-instalación, la configuración e instalación de paquetes en sistemas Linux Debian/Ubuntu.  
+⏳ Funcional, aunque en continua mejora y desarrollo.
 
 ### 🔧 CI/CD con GitHub Actions y Docker  
 > Pipeline automatizado para testeo y despliegue de contenedores desde repositorios Git.  
@@ -36,10 +40,6 @@ Actualmente trabajo en el sector de simulación, donde aplico mis conocimientos 
 
 ### 🛰️ Sistema de versiones automáticas multi-repo  
 > Generador de versiones ZIP a partir de distintos repositorios para facilitar despliegue a equipos no técnicos.  
-⏳ En preparación
-
-### 📦 Instalador automático de entornos Linux  
-> Script multiplataforma para instalar paquetes desde una lista de texto, con logs y adaptación a Debian/CentOS.  
 ⏳ En preparación
 
 ### 📊 Monitorización local de sistemas  

@@ -39,14 +39,15 @@ I currently work in the simulation industry, where I apply my knowledge to impro
 ✅ Functional in a live environment, deployed as a systemd service with periodic execution.
 
 ### 📦 [Gitlab Project Version Packager](https://github.com/celiaricogz/gitlab-project-version-packager)
-> Distributed system with CI/CD for automatic version packaging from generic and specific components.
-✅ Functional and active in a testing environment; multi-repo architecture with automatic integration and versioning.
+> Modular CI/CD system for automated version packaging across multiple GitLab repositories. Combines generic and client-specific components into production-ready ZIPs, with automatic integration, version tagging, and artifact delivery.
+✅ Fully functional and tested; designed for scalable multi-repo environments.
 
 ---
 
 ## 🌐 Professional Links
 
 - 🔗 [Malt Profile](https://www.malt.es/profile/celiaricogutierrez)
+- 🔗 [UpWork Profile](https://www.upwork.com/freelancers/~01898dfb872ff48b7a?mp_source=share)
 - 👥 [LinkedIn](https://www.linkedin.com/in/celiaricogutierrez)
 - 📝 [Personal Technical Blog – CheshyTech](https://cheshytech.github.io)
 Space where I share learnings about automation, DevOps, and scripting from a practical and personal perspective.

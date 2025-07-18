@@ -28,19 +28,31 @@ I currently work in the simulation industry, where I apply my knowledge to impro
 
 ---
 
-## 🧪 Featured Projects *(functional and in preparation)*
+## 🧪 Featured Projects
 
-### 📦 [Automatic Linux Environment Installer](https://github.com/celiaricogz/auto-installer-debian)
-> Script that automates post-installation, configuration, and package installation on Debian/Ubuntu systems.
-⏳ Currently functional and in use; continuously improved.
+## 🚀 [CI/CD Templates – Ready-to-Use Pipelines for GitLab & GitHub](https://github.com/celiaricogz/ci-cd-templates)
+🔧 **Reusable and production-ready CI/CD templates** for **Node.js, Python, and Java** projects.  
+Includes **optimized pipelines with caching, linting, testing, and build stages**, compatible with **GitLab CI** (`include:`) and **GitHub Actions** (`uses:`).  
 
-### 🛠️ [GitLab Project Initializer](https://github.com/celiaricogz/gitlab-project-initializer)
-> Automates the initialization of new GitLab repositories from a base template, including protected branches and a standard structure.
-✅ Functional in a live environment, deployed as a systemd service with periodic execution.
+**🎯 Goal:** Help teams set up **standardized, fast, and reliable CI/CD** without writing boilerplate from scratch.  
 
-### 📦 [Gitlab Project Version Packager](https://github.com/celiaricogz/gitlab-project-version-packager)
-> Modular CI/CD system for automated version packaging across multiple GitLab repositories. Combines generic and client-specific components into production-ready ZIPs, with automatic integration, version tagging, and artifact delivery.
-✅ Fully functional and tested; designed for scalable multi-repo environments.
+## 📊 [Dockervisor – Instant Observability Stack](https://github.com/celiaricogz/dockervisor)
+📦 **Lightweight Docker-based stack** combining **Grafana, Prometheus, and Loki** for real-time metrics and logs.  
+Spin it up with **one command** using `docker-compose`, with a **built-in demo service** that generates data for instant visualization.  
+
+**🎯 Goal:** Provide developers and teams with an **easy-to-deploy observability environment**, no Kubernetes or complex setup required.  
+
+### 📦 [Automatic Linux Environment Installer](https://github.com/celiaricogz/auto-installer-debian)  
+💻 **Automated post-installation and environment setup tool** for **Debian/Ubuntu** systems.  
+Performs **package installation, system configuration, and backups** automatically after a fresh OS install.  
+
+**🎯 Goal:** Simplify and accelerate **Linux environment setup** for developers and teams by automating repetitive configuration tasks.
+
+### 📦 [GitLab Project Version Packager](https://github.com/celiaricogz/gitlab-project-version-packager)  
+⚙️ **Modular CI/CD system for building versioned deliverables** across **multiple GitLab repositories**.  
+Automatically **assembles generic and client-specific components**, generates **tagged ZIP releases**, and **maintains a version history** for easy delivery.  
+
+**🎯 Goal:** Enable **fast, repeatable, and traceable releases** for organizations managing multiple modular GitLab projects.
 
 ---
 

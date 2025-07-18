@@ -30,13 +30,13 @@ I currently work in the simulation industry, where I apply my knowledge to impro
 
 ## 🧪 Featured Projects
 
-## 🚀 [CI/CD Templates – Ready-to-Use Pipelines for GitLab & GitHub](https://github.com/celiaricogz/ci-cd-templates)
+### 🚀 [CI/CD Templates – Ready-to-Use Pipelines for GitLab & GitHub](https://github.com/celiaricogz/ci-cd-templates)
 🔧 **Reusable and production-ready CI/CD templates** for **Node.js, Python, and Java** projects.  
 Includes **optimized pipelines with caching, linting, testing, and build stages**, compatible with **GitLab CI** (`include:`) and **GitHub Actions** (`uses:`).  
 
 **🎯 Goal:** Help teams set up **standardized, fast, and reliable CI/CD** without writing boilerplate from scratch.  
 
-## 📊 [Dockervisor – Instant Observability Stack](https://github.com/celiaricogz/dockervisor)
+### 📊 [Dockervisor – Instant Observability Stack](https://github.com/celiaricogz/dockervisor)
 📦 **Lightweight Docker-based stack** combining **Grafana, Prometheus, and Loki** for real-time metrics and logs.  
 Spin it up with **one command** using `docker-compose`, with a **built-in demo service** that generates data for instant visualization.  
 

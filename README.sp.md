@@ -30,13 +30,13 @@ Actualmente trabajo en el sector de simulación, donde aplico mis conocimientos 
 
 ## 🧪 Proyectos destacados *(funcionales y en preparación)*
 
-## 🚀 [Plantillas CI/CD – Pipelines listos para usar en GitLab y GitHub](https://github.com/celiaricogz/ci-cd-templates)
+### 🚀 [Plantillas CI/CD – Pipelines listos para usar en GitLab y GitHub](https://github.com/celiaricogz/ci-cd-templates)
 🔧 **Plantillas CI/CD reutilizables y listas para producción** para proyectos **Node.js, Python y Java**.  
 Incluye **pipelines optimizados con caché, linting, pruebas y etapas de build**, compatibles con **GitLab CI** (`include:`) y **GitHub Actions** (`uses:`).  
 
 **🎯 Objetivo:** Ayudar a equipos a configurar **CI/CD estandarizado, rápido y fiable** sin escribir código repetitivo desde cero.  
 
-## 📊 [Dockervisor – Stack de observabilidad instantánea](https://github.com/celiaricogz/dockervisor)
+### 📊 [Dockervisor – Stack de observabilidad instantánea](https://github.com/celiaricogz/dockervisor)
 📦 **Stack ligero basado en Docker** que combina **Grafana, Prometheus y Loki** para métricas y logs en tiempo real.  
 Se despliega con **un solo comando** usando `docker-compose`, e incluye un **servicio demo integrado** que genera datos para visualización instantánea.  
 

@@ -30,6 +30,12 @@ I currently work in the simulation industry, where I apply my knowledge to impro
 
 ## 🧪 Featured Projects
 
+### 📝 [Sticky Notes – Dockerized Full-Stack App](https://github.com/celiaricogz/tristack-demo)  
+🗂 **A simple notes application** built with **React (frontend)**, **Node.js/Express (backend)**, and **Postgres (database)**,  
+fully **containerized and orchestrated with Docker Compose**, with **optimized multi-stage builds** for both **development (hot reload)** and **production (Nginx, caching, gzip)**.
+
+**🎯 Goal:** Showcase **DevOps and full-stack capabilities** by delivering a **ready-to-deploy, scalable, and modern web app** that demonstrates best practices in containerization and deployment.
+
 ### 🚀 [CI/CD Templates – Ready-to-Use Pipelines for GitLab & GitHub](https://github.com/celiaricogz/ci-cd-templates)
 🔧 **Reusable and production-ready CI/CD templates** for **Node.js, Python, and Java** projects.  
 Includes **optimized pipelines with caching, linting, testing, and build stages**, compatible with **GitLab CI** (`include:`) and **GitHub Actions** (`uses:`).  

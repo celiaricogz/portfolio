@@ -28,7 +28,13 @@ Actualmente trabajo en el sector de simulación, donde aplico mis conocimientos 
 
 ---
 
-## 🧪 Proyectos destacados *(funcionales y en preparación)*
+## 🧪 Proyectos destacados
+
+### 📝 [Sticky Notes – Aplicación Full-Stack Dockerizada](https://github.com/celiaricogz/tristack-demo)  
+🗂 **Aplicación sencilla de notas** desarrollada con **React (frontend)**, **Node.js/Express (backend)** y **Postgres (base de datos)**,  
+totalmente **contenedorizada y orquestada con Docker Compose**, con **builds multi-etapa optimizados** tanto para **desarrollo (hot reload)** como para **producción (Nginx, caché, gzip)**.
+
+**🎯 Objetivo:** Mostrar **habilidades DevOps y full-stack** entregando una **web moderna, escalable y lista para desplegar** que ejemplifica buenas prácticas en contenerización y despliegue.
 
 ### 🚀 [Plantillas CI/CD – Pipelines listos para usar en GitLab y GitHub](https://github.com/celiaricogz/ci-cd-templates)
 🔧 **Plantillas CI/CD reutilizables y listas para producción** para proyectos **Node.js, Python y Java**.  
